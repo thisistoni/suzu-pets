@@ -1,0 +1,8 @@
+{
+  "id": "geralt",
+  "displayName": "Geralt",
+  "description": "A white-haired traveler robot mascot with a dark outfit and small backpack.",
+  "spritesheetPath": "spritesheet.png",
+  "spriteVersionNumber": 1,
+  "attribution": "thisistoni · All rights reserved · https://github.com/thisistoni/suzu-pets"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "name": "Toni's Pets",
+  "attribution": "thisistoni · All rights reserved · https://github.com/thisistoni/suzu-pets",
+  "pets": [
+    {
+      "id": "geralt",
+      "name": "Geralt",
+      "description": "A white-haired traveler robot mascot with a dark outfit and small backpack.",
+      "submittedBy": "thisistoni",
+      "kind": "character",
+      "spriteVersionNumber": 1,
+      "spritesheetPath": "pets/geralt/spritesheet.png",
+      "attribution": "thisistoni · All rights reserved · https://github.com/thisistoni/suzu-pets"
+    },
+    {
+      "id": "capri",
+      "name": "Capri",
+      "description": "A cheerful fragmented AI woven from many human souls, full of playful energy.",
+      "submittedBy": "thisistoni",
+      "kind": "character",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "pets/capri/spritesheet.png",
+      "attribution": "thisistoni · All rights reserved · https://github.com/thisistoni/suzu-pets"
+    }
+  ]
+}
